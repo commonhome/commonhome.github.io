@@ -12,12 +12,12 @@
 // $spacing-unit:     30px;
 
 // $text-color:       #111;
-// $background-color: #fdfdfd;
-// $brand-color:      #2a7ae2;
+// $background-color: #f5480f;
+// $brand-color:      #ebd702;
 
 // $grey-color:       #828282;
-// $grey-color-light: lighten($grey-color, 40%);
-// $grey-color-dark:  darken($grey-color, 25%);
+// $grey-color-light: lighten#f5480f($grey-color, 40%);
+// $grey-color-dark:  darken($grey-color, 25%);#F05F40
 
 // // Width of the content area
 // $content-width:    800px;
@@ -34,7 +34,7 @@
 // }
 
 // variables.less
-$theme-primary: #F05F40;
+$theme-primary: #f5480f;
 $theme-dark: #222;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
